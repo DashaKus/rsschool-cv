@@ -3,7 +3,8 @@
 1. Dasha Busel
 2. email adress: busel.2002@bk.ru 
    phone number: +375296282350
-3. I am stadying in the university at the Faculty of Radiophysics and Electronics. I want to develop in the IT sphere, imorove my English level, create new proj ects
+3. I am stadying in the university at the Faculty of Radiophysics and Electronics. I want to develop in the IT sphere, imorove my English level, create new proj ects, lern somthing new about web development and create attachment wich will be useful for people and make their live easier.
+I learn C++ and java, I know the principles of OOP, can using git and github, know basic things of the
 4. I learn C++ and java, I know the principles of OOP, can using git and github, know basic things of the web programmig and HTML.
 5. It is a part of code where I stade how to work with functions(write in c++):
 ```
